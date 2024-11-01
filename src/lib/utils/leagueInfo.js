@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The years 2012, David Wurtzburg a miserable football fan who's given up on football gets invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. David wouldn't win a championship again for 10 years.</p>
+  <p>The years 2012 David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. David wouldn't win a championship again for 10 years.</p>
   <p>The commish of that league never collected the buy in from the other managers. He never gets paid. This spawns the most competitive 12 man league the worlds ever known.</p>
   <p>Year number two of the new league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. His dad drafts Peyton. Week 1 he plays his dad. Peyton throws 462 yards and 7 TDs.</p>
 `;
