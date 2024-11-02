@@ -78,7 +78,7 @@ export const managers = [
       "name": "Corey",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tampa, FL", // (optional)
-      "bio": "<b><i>Original Dirty Dozen member</i></b>. Coreys and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. <br><br>Visiting Ft. Myers? Ask him about Bar Louie dollar burger night. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
+      "bio": "<b><i>Original Dirty Dozen member</i></b>. Corey and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. <br><br>Visiting Ft. Myers? Ask him about Bar Louie dollar burger night. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
       "photo": "/managers/corey.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -101,7 +101,7 @@ export const managers = [
       "name": "Johnny",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Worth, FL", // (optional)
-      "bio": "Original Dirty Dozen member. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a stall door to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
+      "bio": "Original Dirty Dozen member. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. <br><br>David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a bathroom floor to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
       "photo": "/managers/johnny.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
