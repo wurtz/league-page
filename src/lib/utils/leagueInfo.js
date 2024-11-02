@@ -50,7 +50,7 @@ export const managers = [
       "name": "David",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Boston, MA", // (optional)
-      "bio": "Founder and original Dirty Dozen member. The years 2012 David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. David wouldn't win a championship again for 10 years. The commish of that league never collected the buy in from the other managers. He never gets paid. This spawns the most competitive 12 man league the worlds ever know",
+      "bio": "Founder and original Dirty Dozen member. The years 2012, David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. The commish of that league never collected the buy in from the other managers. He never got paid, this spawns the most competitive 12 man league the worlds ever known. David wouldn't win a championship again for 10 years, shoutout to Damar Hamlin. ",
       "photo": "/managers/david.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
