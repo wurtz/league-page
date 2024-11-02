@@ -17,19 +17,22 @@ export const homepageText = `
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
-      <li>2017: Brad</li>
-      <li>2018: Johnny</li>
-      <li>2019: Austin</li>
-      <li>2020: Ryne</li>
-      <li>2021: Corey</li>
-      <li>2022: David</li>
-      <li>2023: Devin</li>
+      <li>🏆2017: Brad🏆</li>
+      <li>🏆2018: Johnny🏆</li>
+      <li>🏆2019: Austin🏆</li>
+      <li>🏆2020: Ryne🏆</li>
+      <li>🏆2021: Corey🏆</li>
+      <li>🏆2022: David🏆</li>
+      <li>🏆2023: Devin🏆</li>
       
   </ul> 
   <br>
   <br>
   <br>
-  <p><b><i>Disclaimer:</i></b> <i>Power ranking below is based on Sleepers projections which are complete trash, so this rankings are bullshit</i></p>
+  <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are kinda trash, so these rankings are bullshit</i></p>
+  <br>
+  <br>
+  <br>
 `;
 
 /*   STEP 3   */
