@@ -101,7 +101,7 @@ export const managers = [
       "name": "Johnny",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Worth, FL", // (optional)
-      "bio": "Original Dirty Dozen member. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. <br><br>David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a bathroom floor to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
+      "bio": "<b><i>Original Dirty Dozen member</i></b>. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. <br><br>David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a bathroom floor to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
       "photo": "/managers/johnny.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -147,7 +147,7 @@ export const managers = [
       "name": "Groovy",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Knoxville, TN", // (optional)
-      "bio": "Original Dirty Dozen member. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
+      "bio": "<b><i>Original Dirty Dozen member</i></b>. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
       "photo": "/managers/groovy.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
