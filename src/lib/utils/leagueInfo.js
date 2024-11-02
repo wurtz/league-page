@@ -96,7 +96,7 @@ export const managers = [
       "name": "Corey",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tampa, FL", // (optional)
-      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. Corey and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. <br><br>Visiting Ft. Myers? Ask him about Bar Louie dollar burger night. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
+      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>Corey and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. <br><br>Visiting Ft. Myers? Ask him about Bar Louie dollar burger night. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
       "photo": "/managers/corey.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -119,7 +119,7 @@ export const managers = [
       "name": "Johnny",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Worth, FL", // (optional)
-      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. <br><br>David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a bathroom floor to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
+      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. <br><br>David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a bathroom floor to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
       "photo": "/managers/johnny.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -142,7 +142,7 @@ export const managers = [
       "name": "Austin",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Orlando, FL", // (optional)
-      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word.",
+      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word.",
       "photo": "/managers/austin.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -165,7 +165,7 @@ export const managers = [
       "name": "Groovy",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Knoxville, TN", // (optional)
-      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. <br><br>Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
+      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. <br><br>Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
       "photo": "/managers/groovy.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
