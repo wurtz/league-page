@@ -1,14 +1,15 @@
 /*   STEP 1   */
 export const leagueID = "1092949297970176000"; // your league ID
-export const leagueName = "Corey & Groovy <3 Best Ball"; // your league name
+export const leagueName = "Dirty Dozen"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The years 2012 David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. David wouldn't win a championship again for 10 years.</p>
-  <p>The commish of that league never collected the buy in from the other managers. He never gets paid. This spawns the most competitive 12 man league the worlds ever known.</p>
+  <p>Dirty Dozen was founded in 2012 in bowels of America AKA Florida. Over the years we've had folks come and go but our core group hasn't changed.</p>
+  <p>In 2024 after much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
+  <p>While we're all here for the glory, we're also paying for that sweet sweet cash. 1st Place: $400, 2nd Place: $100 and every week of the regular season the team that scores the most points wins $50.</p>
 `;
 
 /*   STEP 3   */
