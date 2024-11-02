@@ -193,7 +193,7 @@ export const managers = [
       "name": "Ryne",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Fort Leonard Wood, Missouri", // (optional)
-      "bio": "Ryne, little brother to Corey has been a solid contender in Dirty Dozen for years. Want a good laugh? Send him a trade so he can hit you with one of his professionaly comedic counter offers. Who Dat? It's Dennis Allen, and he's single-handedly destroying your franchise.",
+      "bio": "Ryne, little brother to Corey has been a solid contender in Dirty Dozen for years. Want a good laugh? Send him a trade so he can hit you with one of his professionaly comedic counter offers. <br><br>Who Dat? It's Dennis Allen, and he's single-handedly destroying your franchise. Thank you for your service.",
       "photo": "/managers/ryne.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
