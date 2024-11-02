@@ -32,7 +32,7 @@ export const managers = [
       "name": "Brad",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Vero Beach, FL", // (optional)
-      "bio": "Original Dirty Dozen member. Founding father and real father to the commish. Notorious for taking Bills players (maybe a little too early sometimes). Certified waiver wire shark. <br><br> Year number two of the league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. Brad drafts Peyton with the following pick. Week 1 Brad plays David. Peyton throws for 462 yards and 7 TDs.",
+      "bio": "<b>Original Dirty Dozen member</b>. Founding father and real father to the commish. Notorious for taking Bills players (maybe a little too early sometimes). Certified waiver wire shark. <br><br> Year number two of the league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. Brad drafts Peyton with the following pick. Week 1 Brad plays David. Peyton throws for 462 yards and 7 TDs that week.",
       "photo": "/managers/brad.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
