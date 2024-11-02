@@ -25,7 +25,6 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 */
 
 // To omit an optional field, set it's value to null
-p {text-align: center;} 
 export const managers = [
     {
      // "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
