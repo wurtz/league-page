@@ -17,8 +17,8 @@ export const homepageText = `
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
-      <li>🏆2017: Brad🏆</li>
-      <li>🏆2018: Johnny🏆</li>
+      <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a>🏆</li>
+      <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a>🏆</li>
       <li>🏆2019: Austin🏆</li>
       <li>🏆2020: Ryne🏆</li>
       <li>🏆2021: Corey🏆</li>
