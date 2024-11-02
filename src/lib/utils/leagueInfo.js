@@ -147,7 +147,7 @@ export const managers = [
       "name": "Groovy",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Knoxville, TN", // (optional)
-      "bio": "<b><i>Original Dirty Dozen member</i></b>. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
+      "bio": "<b><i>Original Dirty Dozen member</i></b>. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. <br><br>Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
       "photo": "/managers/groovy.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
