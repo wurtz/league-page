@@ -78,7 +78,7 @@ export const managers = [
       "name": "Corey",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Tampa, FL", // (optional)
-      "bio": "Original Dirty Dozen member. Corey's and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
+      "bio": "<b><i>Original Dirty Dozen member</i></b>. Corey's and David met back in college at FGCU. In the original Dirty Dozen days Corey, David and Groovy would spend entire football Sundays at the bar of Wicked Wings. Corey's won multiple championships in the league and rarely misses playoffs. Don't trust Corey.",
       "photo": "/managers/corey.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "sf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
