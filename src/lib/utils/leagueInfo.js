@@ -96,7 +96,7 @@ export const managers = [
       "name": "Johnny",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Worth, FL", // (optional)
-      "bio": "Original Dirty Dozen member.He's been known as the Tom Brady of Dirty Dozen, which era TB12 is still being determined. Johnny and David go back to kindergarten. David's been with Johnny through two of his concussions. One involved a donkey, the other involved a stall door to the face. It's obvious neither incident had long term effects, based on the great man he's come today.",
+      "bio": "Original Dirty Dozen member.He's been known as the Tom Brady of Dirty Dozen, which era TB12 is still being determined. Johnny and David go back to kindergarten. David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a stall door to the face. It's obvious neither incident had long term effects, based on the great man he's come today.",
       "photo": "/managers/johnny.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -119,7 +119,7 @@ export const managers = [
       "name": "Austin",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Orlando, FL", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Original Dirty Dozen member. Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word to his family.",
       "photo": "/managers/austin.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -132,7 +132,7 @@ export const managers = [
       "favoritePlayer": 9999, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
  //     "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Your fantasy team's philosophy", // (optional)
+      "philosophy": "Philosophy on what? Like why am I keeping Nico Collins or why I have two kickers?", // (optional)
       "tradingScale": 1, // 1 - 10 (optional)
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
