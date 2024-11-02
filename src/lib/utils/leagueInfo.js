@@ -9,7 +9,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>The years 2012 David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. David wouldn't win a championship again for 10 years.</p>
   <p>The commish of that league never collected the buy in from the other managers. He never gets paid. This spawns the most competitive 12 man league the worlds ever known.</p>
-  <p>Year number two of the new league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. His dad drafts Peyton. Week 1 he plays his dad. Peyton throws 462 yards and 7 TDs.</p>
 `;
 
 /*   STEP 3   */
@@ -28,7 +27,7 @@ export const managers = [
       "name": "Brad",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Vero Beach, FL", // (optional)
-      "bio": "Lorem ipsum...",
+      "bio": "Original Dirty Dozen member. Founding father and real father to the commish. Notorious for taking Bills players (maybe a little too early sometimes). Certified waiver wire shark. Year number two of the league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. His dad drafts Peyton. Week 1 he plays his dad. Peyton throws for 462 yards and 7 TDs.",
       "photo": "/managers/brad.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
