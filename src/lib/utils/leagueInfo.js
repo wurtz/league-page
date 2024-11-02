@@ -257,7 +257,7 @@ export const managers = [
       "name": "Devin",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Fall River, MA", // (optional)
-      "bio": "Devin is David's brother in law and our official league Cowboy (not the team, the actual gun toting, boot and cowboy hat wearing). Devin had a rough few years at the beginning of his Dirty Dozens career. In 2023 he turned it all around and became one of the leagues biggest dark horse victors. Being from New England he's technically a Pats fan but we've adopted him into Bills Mafia.",
+      "bio": "Devin is David's brother in law and our official league Cowboy (not the team, the actual gun toting, boot and cowboy hat wearing kind). Devin had a rough few years at the beginning of his Dirty Dozens career. In 2023 he turned it all around and became one of the leagues biggest dark horse victors. Being from New England he's technically a Pats fan but we've adopted him into Bills Mafia.",
       "photo": "/managers/devin.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
