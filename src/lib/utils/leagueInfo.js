@@ -15,6 +15,17 @@ export const homepageText = `
       <li>2nd Place: $100</li>
       <li>Most points each week (reg season): $50</li>
   </ul> 
+   <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
+     <ul>
+      <li>2017: Brad</li>
+      <li>2018: Johnny</li>
+      <li>2019: Austin</li>
+      <li>2020: Ryne</li>
+      <li>2021: Corey</li>
+      <li>2022: David</li>
+      <li>2023: Devin</li>
+      
+  </ul> 
 `;
 
 /*   STEP 3   */
