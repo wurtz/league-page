@@ -142,7 +142,7 @@ export const managers = [
       "name": "Groovy",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Knoxville, TN", // (optional)
-      "bio": "Original Dirty Dozen member. Groovy and David were random roommates in college. Groovy a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
+      "bio": "Original Dirty Dozen member. Groovy and David were random roommates in college after he was kicked off campus #legalizeIT. He's part of the OG Wicked Wings Ft. Myers crew this league was founded on. Back in the day, Groovy, a diehard Dolphins fan could be found on Sunday mornings in front of his TV wearing a snuggie, eating homemade cream cheese, while screaming at Chad Henne on a TV that James would eventually kick out and break.",
       "photo": "/managers/groovy.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -165,7 +165,7 @@ export const managers = [
       "name": "Zach",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ft. Myers, FL", // (optional)
-      "bio": "Zach and I go back to middle school or elementary or some shit. He's one of our three Dolphins fans that's just hear to have a good time in this garbage ass league. On Sundays in between watching his QB swirl his brain around like a blender with a broken off switch, Zach likes to make waiver moves during free agency. Don't ever tell him to put in a $0 waiver. It just doesn't hit the same.",
+      "bio": "Zach and I go back to middle school or elementary or some shit. He's one of our three Dolphins fans that's just here to have a good time in this garbage ass league. On Sundays in between watching his QB swirl his brain around like a blender with a broken off switch, Zach likes to make waiver moves during free agency. Don't ever tell him to put in a $0 waiver. It just doesn't hit the same as Free Agency to him.",
       "photo": "/managers/zach.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -188,7 +188,7 @@ export const managers = [
       "name": "Ryne",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Fort Leonard Wood, Missouri", // (optional)
-      "bio": "Ryne, little brother to Corey has had a solid contender in Dirty Dozen for years. Want a good laugh? Send him a trade so he can hit you with one of his professionaly comedic counter offers. Who Dat? It's Dennis Allen, and he's single-handedly destroying your franchise.",
+      "bio": "Ryne, little brother to Corey has been a solid contender in Dirty Dozen for years. Want a good laugh? Send him a trade so he can hit you with one of his professionaly comedic counter offers. Who Dat? It's Dennis Allen, and he's single-handedly destroying your franchise.",
       "photo": "/managers/ryne.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "no", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -234,7 +234,7 @@ export const managers = [
       "name": "Anthony",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Brooklyn", // (optional)
-      "bio": "Anthony, cousin of David is our resident Eagle fan. While him and David don't get see each other as frequently as they'd like, they get to share this league together. They also get to share honor of raising the next generation of miserable Eagles and Bills fans.",
+      "bio": "Anthony, cousin of David is our resident Eagle fan. While him and David don't get see each other as frequently as they'd like, they get to share this league together. They also get to share the honor of raising the next generation of miserable Eagles and Bills fans.",
       "photo": "/managers/anthony.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
