@@ -7,9 +7,13 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Dirty Dozen was founded in 2012 in bowels of America AKA Florida. Over the years we've had folks come and go but our core group hasn't changed.</p>
-  <p>In 2024 after much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
-  <p>While we're all here for the glory, we're also paying for that sweet sweet cash. 1st Place: $400, 2nd Place: $100 and every week of the regular season the team that scores the most points wins $50.</p>
+  <p>Dirty Dozen was founded in 2012 in the bowels of America AKA Florida. Over the years we've had folks come and go but our core group hasn't changed. In 2024 with much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
+  <p>While we're all here for the glory, we're also playing for that sweet sweet cash. 1st Place: $400, 2nd Place: $100 and every week of the regular season the team that scores the most points wins $50.</p>
+  <ul>
+      <li>1st: $400</li>
+      <li>2nd: $100</li>
+      <li>Most points each week (reg season): $50</li>
+  </ul> 
 `;
 
 /*   STEP 3   */
