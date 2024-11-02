@@ -27,7 +27,7 @@ export const managers = [
       "name": "Brad",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Vero Beach, FL", // (optional)
-      "bio": "Original Dirty Dozen member. Founding father and real father to the commish. Notorious for taking Bills players (maybe a little too early sometimes). Certified waiver wire shark. Year number two of the league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. Brad drafts Peyton. Week 1 he plays his Brad. Peyton throws for 462 yards and 7 TDs.",
+      "bio": "Original Dirty Dozen member. Founding father and real father to the commish. Notorious for taking Bills players (maybe a little too early sometimes). Certified waiver wire shark. Year number two of the league, David attempts to draft Peyton Manning fresh into his Denver career. He drafts Eli on accident. Brad drafts Peyton with the following pick. Week 1 he plays his Brad. Peyton throws for 462 yards and 7 TDs.",
       "photo": "/managers/brad.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -50,7 +50,7 @@ export const managers = [
       "name": "David",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Boston, MA", // (optional)
-      "bio": "Founder and original Dirty Dozen member. The years 2012, David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts. He wins it all, 1 year and 1 championship. The commish of that league never collected the buy in from the other managers. He never got paid, this spawns the most competitive 12 man league the worlds ever known. David wouldn't win a championship again for 10 years, shoutout to Damar Hamlin. ",
+      "bio": "Founder and original Dirty Dozen member. The years 2012, David, a miserable football fan who'd given up on football (GO BILLS) was invited to play fantasy football. With no idea wtf he's doing he manually autodrafts, picking up players he's never heard of. He wins it all, 1 year and 1 championship. The commish of that league never collected the buy in from the other managers. To this day he's never been paid. This motivated David to build the most competitive 12 man league the worlds ever known. David wouldn't win a championship again for 10 years, shoutout to Damar Hamlin. ",
       "photo": "/managers/david.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2012, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "buf", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -86,7 +86,7 @@ export const managers = [
       "favoritePlayer": 996, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
 //      "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "I hate it. And I’ll see you next year.", // (optional)
+      "philosophy": "I hate fantasy football. And I’ll see you next year.", // (optional)
       "tradingScale": 10, // 1 - 10 (optional)
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
@@ -96,7 +96,7 @@ export const managers = [
       "name": "Johnny",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lake Worth, FL", // (optional)
-      "bio": "Original Dirty Dozen member.He's been known as the Tom Brady of Dirty Dozen, which era TB12 is still being determined. Johnny and David go back to kindergarten. David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a stall door to the face. It's obvious neither incident had long term effects, based on the great man he's come today.",
+      "bio": "Original Dirty Dozen member. He's been called the Aaron Hernandez of the league because from time to time he's killin it. Johnny and David go back to kindergarten. David's been with Johnny through a lot, including two of his concussions. One involved a donkey, the other involved a stall door to the face. It's obvious neither incident had long term effects, based on the brilliant man he's become today.",
       "photo": "/managers/johnny.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -119,7 +119,7 @@ export const managers = [
       "name": "Austin",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Orlando, FL", // (optional)
-      "bio": "Original Dirty Dozen member. Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word to his family.",
+      "bio": "Original Dirty Dozen member. Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word.",
       "photo": "/managers/austin.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
