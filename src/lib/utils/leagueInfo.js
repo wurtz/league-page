@@ -216,7 +216,7 @@ export const managers = [
       "name": "Dan",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Richmond, VA", // (optional)
-      "bio": "Dan can be found on Sundays taking bourbon shots with old bay rims. What's he eating? Crab Soup, Crab Cakes, with a side of Crab chips. We get it Dan... you're from DMV. It's looking like the Washington [INSERT CURRENT TEAM NAME] finally found their franchise QB in Jayden Daniels. Dan saw him live once and he got injured. Don't go to anymore games Dan, it's not worth it.",
+      "bio": "Dan can be found on Sundays taking bourbon shots with old bay rims. What's he eating? Crab Soup, Crab Cakes, with a side of Crab chips. We get it Dan... you're from the DMV. <br><br>It's looking like the Washington <b><i>[INSERT CURRENT TEAM NAME]</i></b> finally found their franchise QB in Jayden Daniels. Dan saw him live once and he got injured. Don't go to anymore games Dan. Is it really worth risking your QBs health?.",
       "photo": "/managers/dan.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
