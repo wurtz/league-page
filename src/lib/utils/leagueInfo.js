@@ -170,7 +170,7 @@ export const managers = [
       "name": "Zach",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Ft. Myers, FL", // (optional)
-      "bio": "Zach and I go back to middle school or elementary or some shit. He's one of our three Dolphins fans that's just here to have a good time in this garbage ass league. On Sundays in between watching his QB swirl his brain around like a blender with a broken off switch, Zach likes to make waiver moves during free agency. Don't ever tell him to put in a $0 waiver. It just doesn't hit the same as Free Agency to him.",
+      "bio": "Zach and I go back to middle school or elementary or some shit. He's one of our three Dolphins fans that's just here to have a good time in this garbage ass league. <br><br>On Sundays in between watching his QB swirl his brain around like a blender with a broken off switch, Zach likes to make waiver moves during free agency. Don't ever tell him to put in a $0 waiver though. It just doesn't hit the same as Free Agency for him.",
       "photo": "/managers/zach.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "mia", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
