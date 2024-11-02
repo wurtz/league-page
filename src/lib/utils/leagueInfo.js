@@ -13,7 +13,7 @@ export const homepageText = `
   <ul>
       <li>🥇1st Place: $400🥇</li>
       <li>🥈2nd Place: $100🥈</li>
-      <li>💰Most points each week (reg season): $50💰</li>
+      <li>💰Most points each week (<b>reg season</b>): $50💰</li>
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
@@ -29,7 +29,7 @@ export const homepageText = `
   <br>
   <br>
   <br>
-  <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are kinda trash, so these rankings are bullshit</i></p>
+  <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are trash, so these rankings are kinda bullshit...</i></p>
   <br>
   <br>
   <br>
