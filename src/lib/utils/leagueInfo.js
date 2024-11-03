@@ -11,9 +11,9 @@ export const homepageText = `
   <p>Sleeper's rich API has enabled us to build this sweet ass site.</p>
   <p>While we're all here for the glory, we're also playing for that sweet sweet cash 💰💰💰💰💰💰💰💰💰💰💰💰💰💰.</p>
   <ul>
-      <li>🥇1st Place: $400🥇</li>
-      <li>🥈2nd Place: $100🥈</li>
-      <li>💰Most points each week (<b>reg season</b>): $50💰</li>
+      <li>🥇1st Place: <b>$400</b>🥇</li>
+      <li>🥈2nd Place: <b>$100</b>🥈</li>
+      <li>💰Most points each week (<b>reg season</b>): <b>$50</b>💰</li>
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
