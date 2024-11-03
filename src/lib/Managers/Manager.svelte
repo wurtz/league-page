@@ -130,7 +130,6 @@
     .bio {
         margin: 2em 1.5em 2em;
         text-indent: 4em;
-        align-items: center;
     }
 
     .philosophy {
