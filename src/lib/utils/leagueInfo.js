@@ -28,10 +28,12 @@ export const homepageText = `
   </ul> 
   <br>
   <br>
+  <img src="trash.png" alt="traaaaaaaaaaash">
+  <br>
+  <br>
+  <br>
   <h2>Trending Players</h2>
   <iframe src="https://sleeper.app/embed/players/nfl/trending/add?lookback_hours=24&limit=25" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
-  <br>
-  <img src="trash.png" alt="traaaaaaaaaaash">
   <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are trash, so these rankings are kinda bullshit...</i></p>
   <br>
   <br>
