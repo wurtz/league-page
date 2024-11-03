@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "1092949297970176000"; // your league ID
-export const leagueName = "🤑 Dirty Dozen 🤑"; // your league name
+export const leagueName = "🤡 Dirty Dozen 🤡"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -28,7 +28,7 @@ export const homepageText = `
   </ul> 
   <br>
   <br>
-  <h1>Trending Players</h1>
+  <h2>Trending Players</h2>
   <iframe src="https://sleeper.app/embed/players/nfl/trending/add?lookback_hours=24&limit=25" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
   <br>
   <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are trash, so these rankings are kinda bullshit...</i></p>
