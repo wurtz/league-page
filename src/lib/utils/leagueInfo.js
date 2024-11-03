@@ -28,7 +28,7 @@ export const homepageText = `
   </ul> 
   <br>
   <br>
-  <iframe src="https://sleeper.app/embed/players/nfl/trending/add?lookback_hours=24&limit=25" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+  <iframe src="https://sleeper.app/embed/players/nfl/trending/add?lookback_hours=24&limit=25" width="350" height="500" align="center" allowtransparency="true" frameborder="0"></iframe>
   <br>
   <p><b><i>Disclaimer:</i></b> <i>Power ranking below are probably based on Sleepers projections which are trash, so these rankings are kinda bullshit...</i></p>
   <br>
