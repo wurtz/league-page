@@ -17,13 +17,13 @@ export const homepageText = `
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
-      <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a>🏆</li> 
-      <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a>🏆</li>
-      <li>🏆2021:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a>🏆</li>
-      <li>🏆2020:<a href="https://www.dirtydozen.win/manager/?manager=7"> Ryne</a>🏆</li>
-      <li>🏆2019:<a href="https://www.dirtydozen.win/manager/?manager=4"> Austin</a>🏆</li>
-      <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a>🏆</li>
-      <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a>🏆</li> 
+      <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
+      <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
+      <li>🏆2021:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
+      <li>🏆2020:<a href="https://www.dirtydozen.win/manager/?manager=7"> Ryne</a> (TaysomDeezNutz) 🏆</li>
+      <li>🏆2019:<a href="https://www.dirtydozen.win/manager/?manager=4"> Austin</a> (Show Me TDs) 🏆</li>
+      <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a> (Zeke&Destroy) 🏆</li>
+      <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a> (Krispy Kareem) 🏆</li> 
     </ul> 
   <br>
   <br>
