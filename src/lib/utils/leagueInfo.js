@@ -13,7 +13,7 @@ export const homepageText = `
   <ul>
       <li>🥇1st Place: <b>$400</b>🥇</li>
       <li>🥈2nd Place: <b>$100</b>🥈</li>
-      <li>💰Most points each week (<b>reg season</b>): <b>$50</b>💰</li>
+      <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
      <ul>
