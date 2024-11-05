@@ -25,9 +25,9 @@ export const homepageText = `
       <li>🏆2019:<a href="https://www.dirtydozen.win/manager/?manager=4"> Austin</a> (Show Me TDs) 🏆</li>
       <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a> (Zeke&Destroy) 🏆</li>
       <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a> (Krispy Kareem) 🏆</li> 
-      <li>🏆2016:REDACTED (REDACTED) 🏆</li> 
+      <li>🏆2016: REDACTED 🏆</li> 
       <li>🏆2015: Nick (#ernandez) 🏆</li> 
-      <li>🏆2014: REDACTED (REDACTED) 🏆</li> 
+      <li>🏆2014: REDACTED 🏆</li> 
       <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
     </ul> 
   <br>
