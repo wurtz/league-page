@@ -7,7 +7,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <img width:100% height:auto src="quickest_youngest.png" alt="kingcasey"">
+  <img src="quickest_youngest.png" alt="kingcasey" style="max-width:1000px;  width:100%;">
   <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. In 2024 with much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
   <p>Sleeper's rich API has enabled us to build this sweet ass site.</p>
   <p>While we're all here for the glory, we're also playing for that sweet sweet cash 💰💰💰💰💰💰💰💰💰💰💰💰💰💰.</p>
