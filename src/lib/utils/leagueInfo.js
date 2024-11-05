@@ -16,7 +16,7 @@ export const homepageText = `
       <li>🥈2nd Place: <b>$100</b>🥈</li>
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
-   <p>Here's our Championship Hall of Fame exported from Yahoo going back to 2017 (I lost everything before that).</p>
+   <p>Here's our Championship Hall of Fame exported from Yahoo.</p>
      <ul>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
@@ -25,6 +25,10 @@ export const homepageText = `
       <li>🏆2019:<a href="https://www.dirtydozen.win/manager/?manager=4"> Austin</a> (Show Me TDs) 🏆</li>
       <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a> (Zeke&Destroy) 🏆</li>
       <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a> (Krispy Kareem) 🏆</li> 
+      <li>🏆2016:REDACTED (REDACTED) 🏆</li> 
+      <li>🏆2015: Nick (#ernandez) 🏆</li> 
+      <li>🏆2014: REDACTED (REDACTED) 🏆</li> 
+      <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
     </ul> 
   <br>
   <br>
