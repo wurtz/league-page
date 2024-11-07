@@ -151,7 +151,7 @@ export const managers = [
       "name": "Austin",
       "tookOver": 2020, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Orlando, FL", // (optional)
-      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Juan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word.",
+      "bio": "<b><i>⭐Original Dirty Dozen member⭐</i></b>. <br><br>Austin and David go back to the early Ft. Myers days. Austin's a long suffering Titans fan and fellow tech bro. Jauan Jennings woke up one Sunday, looked his family in their eyes and said 'I'm gonna win Austin $50 today, just watch'. He kept his word.",
       "photo": "/managers/austin.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2014, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "ten", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
