@@ -28,7 +28,7 @@ export const homepageText = `
       <li>🏆2016: REDACTED 🏆</li> 
       <li>🏆2015: Nick (#ernandez) 🏆</li> 
       <li>🏆2014: REDACTED 🏆</li> 
-      <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
+      <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (TwoGirlsOneKaep) 🏆</li>
     </ul> 
   <br>
   <br>
