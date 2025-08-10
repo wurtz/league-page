@@ -9,7 +9,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <img src="quickest_youngest.png" alt="kingcasey" style="max-width:615px;  width:100%;">
   <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. In 2024 with much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
-  <p>Sleeper's rich API has enabled us to build this sweet ass site.</p>
   <p>While we're all here for the glory, we're also playing for that sweet sweet cash 💰💰💰💰💰💰💰💰💰💰💰💰💰💰.</p>
   <ul>
       <li>🥇1st Place: <b>$400</b>🥇</li>
@@ -18,6 +17,7 @@ export const homepageText = `
   </ul> 
    <p>Here's our Championship Hall of Fame exported from Yahoo.</p>
      <ul>
+      <li>🏆2024:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (4th&69) 🏆</li>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
       <li>🏆2021:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
