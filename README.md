@@ -105,5 +105,32 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 - [Link your github repo to Vercel](https://vercel.com/guides/deploying-svelte-with-vercel#step-2:-deploying-your-svelte-app-with-vercel)
 - That's it!
 
+## ⚙️ Node.js & Vercel Compatibility
+
+> ✅ As of August 2025, this project is compliant with Vercel’s Node.js 18 deprecation (effective Sept 1, 2025).
+
+### Build Environment
+
+- Node.js: `22.x` (set in `package.json`)
+- NPM: `>= 6.0.0`
+
+### Runtime Environment
+
+- Vercel serverless runtime: `nodejs20.x` (set via `@sveltejs/adapter-vercel` config)
+
+### Adapter & Framework Versions
+
+- `@sveltejs/kit`: `1.30.x`
+- `@sveltejs/adapter-vercel`: `3.1.0` (last version compatible with SvelteKit 1.x + Node 20 runtime)
+
+---
+
+🛠️ If upgrading to SvelteKit 2.x or newer:
+- You’ll need to also update `adapter-vercel` to `5.x+`
+- And review runtime changes (e.g., edge functions and platform routes)
+
+For now, this setup is fully stable and future-proofed on Vercel.
+
+
 <!-- ## Development
 see [CONTRIBUTING.md](.github/CONTRIBUTING.md) -->
