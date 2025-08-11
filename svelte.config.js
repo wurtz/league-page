@@ -9,7 +9,7 @@ const config = {
     adapter: dockerBuild
       ? node()
       : vercel({
-          runtime: 'nodejs18.x' // required fallback for adapter-vercel compatibility
+          runtime: 'nodejs18.x' // Use classic Node 18 serverless runtime
         }),
   }
 };
