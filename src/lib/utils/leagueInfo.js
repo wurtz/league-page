@@ -32,7 +32,7 @@ export const homepageText = `
     </ul> 
   <br>
   <br>
-  <img src="trash.png" alt="traaaaaaaaaaash" style="max-width:400px;  width:100%;">
+  <img src="eli.jpg" alt="tom's daddy" style="max-width:400px;  width:100%;">
   <br>
   <br>
   <br>
