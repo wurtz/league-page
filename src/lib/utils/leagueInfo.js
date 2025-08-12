@@ -17,6 +17,7 @@ export const homepageText = `
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
      <ul>
+      <li>🏆2024:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (4th & 69) 🏆</li>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
       <li>🏆2021:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
