@@ -30,6 +30,7 @@ export const homepageText = `
       <li>🏆2014: REDACTED 🏆</li> 
       <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (TwoGirlsOneKaep) 🏆</li>
     </ul> 
+<!-- 
   <br>
   <br>
   <img src="trash.png" alt="traaaaaaaaaaash" style="max-width:400px;  width:100%;">
@@ -42,6 +43,8 @@ export const homepageText = `
   <br>
   <br>
   <br>
+
+--> 
 `;
 
 /*   STEP 3   */
