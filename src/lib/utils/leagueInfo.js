@@ -1,22 +1,21 @@
 /*   STEP 1   */
 export const leagueID = "1092949297970176000"; // your league ID
-export const leagueName = "🤑 Dirty Dozen 🤑"; // your league name
+export const leagueName = "🤡 Dirty Dozen 🤡"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <img src="quickest_youngest.png" alt="kingcasey" style="max-width:615px;  width:100%;">
-  <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. In 2024 with much controversy we left Yahoo after a decade, and transitioned to Best Ball.</p>
-  <p>Sleeper's rich API has enabled us to build this sweet ass site.</p>
-  <p>While we're all here for the glory, we're also playing for that sweet sweet cash 💰💰💰💰💰💰💰💰💰💰💰💰💰💰.</p>
+<!-- 
+<img src="quickest_youngest.png" alt="kingcasey" style="max-width:315px;  width:100%;">
+--> 
+  <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. While we're all here for the glory, we're also playing for that sweet sweet cash 💰.</p>
   <ul>
       <li>🥇1st Place: <b>$400</b>🥇</li>
       <li>🥈2nd Place: <b>$100</b>🥈</li>
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
-   <p>Here's our Championship Hall of Fame exported from Yahoo.</p>
      <ul>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
