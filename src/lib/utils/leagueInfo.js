@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "1257481843356225536"; // your league ID
-export const leagueName = "🤡 Dirty Dozen 🤡"; // your league name
+export const leagueID = "1379665217973133312"; // your league ID
+export const leagueName = "Dirty Bakers Dozen 🤡"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -17,6 +17,7 @@ export const homepageText = `
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
      <ul>
+      <li>🏆2025:<a href="https://www.dirtydozen.win/manager/?manager=5"> Groovy</a> (Achane in the Membrane) 🏆</li>
       <li>🏆2024:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (4th & 69) 🏆</li>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
@@ -331,6 +332,48 @@ export const managers = [
       "philosophy": "Believe in Bub Means. Long live Bub Means. ", // (optional)
       "tradingScale": 10, // 1 - 10 (optional)
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    },
+    {
+      // FILLER - replace with real info
+      "roster": 13,
+      "managerID": "1379666281657032704",
+      "name": "TBD (David's brother)",
+      "location": "TBD",
+      "bio": "Bio coming soon.",
+      "photo": "/managers/question.png",
+      "fantasyStart": null,
+      "favoriteTeam": null,
+      "rival": {
+        name: "Rival",
+        link: null,
+        image: "/managers/question.png",
+      },
+      "favoritePlayer": null,
+      "valuePosition": null,
+      "philosophy": "Philosophy coming soon.",
+      "tradingScale": 5,
+      "preferredContact": "Sleeper",
+    },
+    {
+      // FILLER - replace with real info
+      "roster": 14,
+      "managerID": "853531873299771392",
+      "name": "TBD",
+      "location": "TBD",
+      "bio": "Bio coming soon.",
+      "photo": "/managers/question.png",
+      "fantasyStart": null,
+      "favoriteTeam": null,
+      "rival": {
+        name: "Rival",
+        link: null,
+        image: "/managers/question.png",
+      },
+      "favoritePlayer": null,
+      "valuePosition": null,
+      "philosophy": "Philosophy coming soon.",
+      "tradingScale": 5,
+      "preferredContact": "Sleeper",
     },
     ]
 
