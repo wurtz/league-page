@@ -12,7 +12,7 @@ export const homepageText = `
 --> 
   <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. While we're all here for the glory, we're also playing for that sweet sweet cash 💰.</p>
   <ul>
-      <li>🥇1st Place: <b>$400</b>🥇</li>
+      <li>🥇1st Place: <b>$600</b>🥇</li>
       <li>🥈2nd Place: <b>$100</b>🥈</li>
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
@@ -334,23 +334,23 @@ export const managers = [
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      // FILLER - replace with real info
+      // photo TBD
       "roster": 13,
       "managerID": "1379666281657032704",
-      "name": "TBD (David's brother)",
-      "location": "TBD",
-      "bio": "Bio coming soon.",
+      "name": "Mark",
+      "location": "Boston, MA",
+      "bio": "Mark is David's long-forgotten brother in the fantasy world. His signature claim to fame? Drafting Wes Welker a full year after Welker retired and still finishing the season with a better record than David. <br><br>That petty triumph brought him immense joy, but not enough to stay. His decade-long hiatus saw a cross-country migration from Florida to Asheville (where he officially adopted Dan into the family), before landing in enemy territory in New England. <br><br>Today, when Mark isn't collecting Pokémon cards or pulling off elite EPL fantasy trades, he can be found strolling into 2 Avenue De Lafayette on Monday mornings purely to celebrate Patriot losses.",
       "photo": "/managers/question.png",
-      "fantasyStart": null,
-      "favoriteTeam": null,
+      "fantasyStart": 2026,
+      "favoriteTeam": "buf",
       "rival": {
-        name: "Rival",
-        link: null,
-        image: "/managers/question.png",
+        name: "Casey",
+        link: 11,
+        image: "/managers/casey.png",
       },
-      "favoritePlayer": null,
-      "valuePosition": null,
-      "philosophy": "Philosophy coming soon.",
+      "favoritePlayer": 6768,
+      "valuePosition": "WR",
+      "philosophy": null,
       "tradingScale": 5,
       "preferredContact": "Sleeper",
     },
