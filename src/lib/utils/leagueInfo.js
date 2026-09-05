@@ -17,19 +17,19 @@ export const homepageText = `
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
      <ul>
-      <li>🏆2025:<a href="https://www.dirtydozen.win/manager/?manager=5"> Groovy</a> (Achane in the Membrane) 🏆</li>
-      <li>🏆2024:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (4th & 69) 🏆</li>
-      <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
-      <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
-      <li>🏆2021:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
-      <li>🏆2020:<a href="https://www.dirtydozen.win/manager/?manager=7"> Ryne</a> (TaysomDeezNutz) 🏆</li>
-      <li>🏆2019:<a href="https://www.dirtydozen.win/manager/?manager=4"> Austin</a> (Show Me TDs) 🏆</li>
-      <li>🏆2018:<a href="https://www.dirtydozen.win/manager/?manager=3"> Johnny</a> (Zeke&Destroy) 🏆</li>
-      <li>🏆2017:<a href="https://www.dirtydozen.win/manager/?manager=0"> Brad</a> (Krispy Kareem) 🏆</li> 
+      <li>🏆2025:<a href="/manager/?manager=5"> Groovy</a> (Achane in the Membrane) 🏆</li>
+      <li>🏆2024:<a href="/manager/?manager=1"> David</a> (4th & 69) 🏆</li>
+      <li>🏆2023:<a href="/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
+      <li>🏆2022:<a href="/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
+      <li>🏆2021:<a href="/manager/?manager=2"> Corey</a> (CHAMPA BAY) 🏆</li>
+      <li>🏆2020:<a href="/manager/?manager=7"> Ryne</a> (TaysomDeezNutz) 🏆</li>
+      <li>🏆2019:<a href="/manager/?manager=4"> Austin</a> (Show Me TDs) 🏆</li>
+      <li>🏆2018:<a href="/manager/?manager=3"> Johnny</a> (Zeke&Destroy) 🏆</li>
+      <li>🏆2017:<a href="/manager/?manager=0"> Brad</a> (Krispy Kareem) 🏆</li> 
       <li>🏆2016: REDACTED 🏆</li> 
       <li>🏆2015: Nick (#ernandez) 🏆</li> 
       <li>🏆2014: REDACTED 🏆</li> 
-      <li>🏆2013:<a href="https://www.dirtydozen.win/manager/?manager=2"> Corey</a> (TwoGirlsOneKaep) 🏆</li>
+      <li>🏆2013:<a href="/manager/?manager=2"> Corey</a> (TwoGirlsOneKaep) 🏆</li>
     </ul> 
 <!-- 
   <br>
@@ -349,7 +349,7 @@ export const managers = [
       },
       "favoritePlayer": 6768,
       "valuePosition": "WR",
-      "philosophy": null,
+      "philosophy": "THE 5 PILLARS OF RANDY HAMAS:<br>• We don't negotiate with terrorists. <br>• We don't respect Casey specifically.<br>• We throw our bodies through folding tables. <br>• Winning is our destiny. <br>• Losing is a deep-state conspiracy run by ESPNs algorithm to ruin my weekend.",
       "tradingScale": 5,
       "preferredContact": "Sleeper",
     },
