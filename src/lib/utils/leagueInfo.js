@@ -349,7 +349,7 @@ export const managers = [
       },
       "favoritePlayer": 6768,
       "valuePosition": "WR",
-      "philosophy": null,
+      "philosophy": "THE 5 PILLARS OF RANDY HAMAS:<br>• We don't negotiate with terrorists. <br>• We don't respect Casey specifically.<br>• We throw our bodies through folding tables. <br>• Winning is our destiny. <br>• Losing is a deep-state conspiracy run by ESPNs algorithm to ruin my weekend.",
       "tradingScale": 5,
       "preferredContact": "Sleeper",
     },
