@@ -1,6 +1,6 @@
 /*   STEP 1   */
 export const leagueID = "1379665217973133312"; // your league ID
-export const leagueName = "Dirty Bakers Dozen 🤡"; // your league name
+export const leagueName = "🏆 La Liga 🏆"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -10,7 +10,7 @@ export const homepageText = `
 <!-- 
 <img src="quickest_youngest.png" alt="kingcasey" style="max-width:315px;  width:100%;">
 --> 
-  <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. While we're all here for the glory, we're also playing for that sweet sweet cash 💰.</p>
+  <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. In 2026, the league expanded to 14 managers, triggering a renaming to La Liga. While we're all here for the glory, we're also playing for that sweet sweet cash 💰.</p>
   <ul>
       <li>🥇1st Place: <b>$600</b>🥇</li>
       <li>🥈2nd Place: <b>$100</b>🥈</li>
