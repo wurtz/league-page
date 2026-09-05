@@ -1,6 +1,6 @@
 /*   STEP 1   */
-export const leagueID = "1257481843356225536"; // your league ID
-export const leagueName = "🤡 Dirty Dozen 🤡"; // your league name
+export const leagueID = "1379665217973133312"; // your league ID
+export const leagueName = "Dirty Bakers Dozen 🤡"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = true; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
@@ -12,11 +12,12 @@ export const homepageText = `
 --> 
   <p>Dirty Dozen was founded in 2012 in the bowels of America, AKA 🐊Florida🐊. Over the years we've had folks come and go but our core group hasn't changed. While we're all here for the glory, we're also playing for that sweet sweet cash 💰.</p>
   <ul>
-      <li>🥇1st Place: <b>$400</b>🥇</li>
+      <li>🥇1st Place: <b>$600</b>🥇</li>
       <li>🥈2nd Place: <b>$100</b>🥈</li>
       <li>💰Most points each week (<i>reg season</i>): <b>$50</b>💰</li>
   </ul> 
      <ul>
+      <li>🏆2025:<a href="https://www.dirtydozen.win/manager/?manager=5"> Groovy</a> (Achane in the Membrane) 🏆</li>
       <li>🏆2024:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (4th & 69) 🏆</li>
       <li>🏆2023:<a href="https://www.dirtydozen.win/manager/?manager=10"> Devin</a> (Dingo) 🏆</li> 
       <li>🏆2022:<a href="https://www.dirtydozen.win/manager/?manager=1"> David</a> (HIMothy) 🏆</li>
@@ -331,6 +332,46 @@ export const managers = [
       "philosophy": "Believe in Bub Means. Long live Bub Means. ", // (optional)
       "tradingScale": 10, // 1 - 10 (optional)
       "preferredContact": "Sleeper",  // (optional) 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+    },
+    {
+      "roster": 13,
+      "managerID": "1379666281657032704",
+      "name": "Mark",
+      "location": "Boston, MA",
+      "bio": "Mark is David's long-forgotten brother in the fantasy world. His signature claim to fame? Drafting Wes Welker a full year after Welker retired and still finishing the season with a better record than David. <br><br>That petty triumph brought him immense joy, but not enough to stay. His decade-long hiatus saw a cross-country migration from Florida to Asheville (where he officially adopted Dan into the family), before landing in enemy territory in New England. <br><br>Today, when Mark isn't collecting Pokémon cards or pulling off elite EPL fantasy trades, he can be found strolling into 2 Avenue De Lafayette on Monday mornings purely to celebrate Patriot losses.",
+      "photo": "/managers/mark.png",
+      "fantasyStart": 2026,
+      "favoriteTeam": "buf",
+      "rival": {
+        name: "Casey",
+        link: 11,
+        image: "/managers/casey.png",
+      },
+      "favoritePlayer": 6768,
+      "valuePosition": "WR",
+      "philosophy": null,
+      "tradingScale": 5,
+      "preferredContact": "Sleeper",
+    },
+    {
+      "roster": 14,
+      "managerID": "853531873299771392",
+      "name": "Gui",
+      "location": "San Francisco, CA",
+      "bio": "Celtics, Bruins, Red Sox, and unfortunately Patriots run deep in Gui's blood. He's a diehard New England sports fan, but despite those obvious flaws, he remains beloved by the Commissioner and soon the rest of the league. <br><br>When he isn't watching Brazil suffer another early World Cup exit, Gui enjoys traveling through Asia, long walks on the beach, and watching Drake Maye lose Super Bowls.",
+      "photo": "/managers/gui.jpg",
+      "fantasyStart": 2026,
+      "favoriteTeam": "ne",
+      "rival": {
+        name: "Everyone",
+        link: null,
+        image: "/managers/everyone.png",
+      },
+      "favoritePlayer": 4984,
+      "valuePosition": "WR",
+      "philosophy": null,
+      "tradingScale": 5,
+      "preferredContact": "Sleeper",
     },
     ]
 
