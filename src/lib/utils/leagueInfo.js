@@ -338,7 +338,7 @@ export const managers = [
       "managerID": "1379666281657032704",
       "name": "Mark",
       "location": "Boston, MA",
-      "bio": "Mark is David's long-forgotten brother in the fantasy world. His signature claim to fame? Drafting Wes Welker a full year after Welker retired and still finishing the season with a better record than David. <br><br>That petty triumph brought him immense joy, but not enough to stay. His decade-long hiatus saw a cross-country migration from Florida to Asheville (where he officially adopted Dan into the family), before landing in enemy territory in New England. <br><br>Today, when Mark isn't collecting Pokémon cards or pulling off elite EPL fantasy trades, he can be found strolling into 2 Avenue De Lafayette on Monday mornings purely to celebrate Patriot losses.",
+      "bio": "Mark is David's long-forgotten brother in the fantasy world. His signature claim to fame? Drafting Wes Welker a full year after Welker retired and still finishing the season with a better record than David. <br><br>That petty triumph brought him immense joy, but not enough to stay. His decade-long hiatus saw a cross-country migration from Florida to Asheville (where he officially adopted Dan into the family), before landing in enemy territory in New England. <br><br>Today, when Mark isn't collecting Pokémon cards or pulling off elite EPL fantasy trades, he can be found strolling into Downtown Boston on Monday mornings purely to celebrate Patriot losses.",
       "photo": "/managers/mark.png",
       "fantasyStart": 2026,
       "favoriteTeam": "buf",
