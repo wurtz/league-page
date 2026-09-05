@@ -369,7 +369,7 @@ export const managers = [
       },
       "favoritePlayer": 4984,
       "valuePosition": "WR",
-      "philosophy": null,
+      "philosophy": "Embracing the grit of the weekend warrior. Striving for peak Dark Horse potential.",
       "tradingScale": 5,
       "preferredContact": "Sleeper",
     },
